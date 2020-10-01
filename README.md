@@ -70,3 +70,9 @@ Maybe this is not needed.
 ```console
 avrdude -p m328 -c avrispmkII -v -C avrdude-atmega328-no-p.conf
 ```
+
+## Embedded TDD with C/C++
+
+```console
+sudo apt-get install -y cpputest
+```
